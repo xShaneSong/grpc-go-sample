@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	pb "service/ecommerce"
+	pb "productinfo/server/ecommerce"
 
 	uuid "github.com/gofrs/uuid"
 	"google.golang.org/grpc/codes"
