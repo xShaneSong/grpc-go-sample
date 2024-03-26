@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	pb "service/ecommerce"
+	pb "server/ecommerce"
 
 	"google.golang.org/grpc"
 )
